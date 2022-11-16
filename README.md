@@ -25,11 +25,11 @@
 <div align="center">
   <a href="https://github.com/loeycism">
           <! -- github stats -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imperalis&count_private=true&include_all_commits=true&show_icons=false&&title_color=ffc85c&text_color=ffd47f&bg_color=22272e&cache_seconds=1800&locale=en&hide_border=false&show_owner=true">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imperalis&count_private=true&include_all_commits=true&show_icons=false&&title_color=ffc85c&text_color=ffd47f&bg_color=0d1117&cache_seconds=1800&locale=en&hide_border=false&show_owner=true">
            <! -- language use -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imperalis&theme=ayu-mirage&hide_border=false&&layout=compact&title_color=ffc85c&text_color=ffd47f&bg_color=22272e&cache_seconds=180&locale=en">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imperalis&theme=ayu-mirage&hide_border=false&&layout=compact&title_color=ffc85c&text_color=ffd47f&bg_color=0d1117&cache_seconds=180&locale=en">
            <! -- streak -->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=imperalis&background=22272E&ring=ffd47f&fire=ffc85c&stroke=969664&currStreakLabel=ffc85c&dates=a5926b&sideNums=ffd47f&sideLabels=ffc85c&currStreakNum=ffd47f">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=imperalis&background=0d1117&ring=ffd47f&fire=ffc85c&stroke=969664&currStreakLabel=ffc85c&dates=a5926b&sideNums=ffd47f&sideLabels=ffc85c&currStreakNum=ffd47f">
     
   </a>
 </div>
