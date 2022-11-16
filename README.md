@@ -34,4 +34,11 @@
   </a>
 </div>
 
+<br>
+
+<div align="center">
+<img src="./assets/readme.svg" width="100"><br>
+<p>you've made it this far, yay!</p>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=ffbf43&fontColor=e5d5c5&height=150&section=footer&animation=fadeIn" />
