@@ -6,7 +6,7 @@
 
 - :zap: Hey! You can call me Airon! :)
 
-- :hatching_chick: I'm currently studying **JS**, **CSS** and **FIGMA**!
+- :hatching_chick: I'm currently studying **Laravel**, **Vue.js** and **React**!
 
 - :honey_pot: Always eager to learn more, focused on **web design**!
 
